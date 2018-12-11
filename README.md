@@ -22,7 +22,7 @@ A list of design systems and design resources that gov departments have created.
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
 
 ### Ministry of Justice
-- MOJ Design patterns: https://moj-pattern-library.herokuapp.com/
+- MOJ Design patterns: https://github.com/ministryofjustice/mojdt-design-system-backlog
 
 ### HM Courts & Tribunals Service
 - CJS Crime programme design patterns: https://cjscpp-design-patterns.herokuapp.com/
