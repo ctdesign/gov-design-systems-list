@@ -46,6 +46,9 @@ A list of design systems and design resources that gov departments have created.
 ### Scotland
 - MyGov.Scot resources:https://scottishgovernment.github.io/design-standards/
 
+### Local Gov
+- Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
+
 ## Australia
 
 ### Digital Transformation Agency 
@@ -53,5 +56,5 @@ A list of design systems and design resources that gov departments have created.
 
 ## United States
 
-## Federal Government
+### Federal Government
 - US Web Design System: https://designsystem.digital.gov/
