@@ -38,7 +38,7 @@ A list of design systems and design resources that gov departments have created.
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder 
 
 ### NHS
-- NHS Design Patterns: https://beta.nhs.uk/service-manual/patterns/
+- NHS digital service manual: https://beta.nhs.uk/service-manual/
 
 ### Office for National Statistics
 - ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
