@@ -61,3 +61,6 @@ A list of design systems and design resources that gov departments have created.
 
 ### Federal Government
 - US Web Design System: https://designsystem.digital.gov/
+
+## New Zealand
+- Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
