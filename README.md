@@ -1,7 +1,7 @@
 # Gov Design Systems
 A list of design systems and design resources that gov departments have created. I'm more focussed on design guidance, rather than front end developer code resources but there is some cross over (there's a great list by @nickcolley you should check out for that https://github.com/nickcolley/awesome-govuk-frontend)
 
-## UK 
+## UK
 ### Government Digital Service
 - GOV.UK Design System: https://design-system.service.gov.uk
 - Backlog and community discussion: https://github.com/alphagov/govuk-design-system-backlog/projects/1
@@ -17,7 +17,7 @@ A list of design systems and design resources that gov departments have created.
 - DWP Design Examples: https://dwp-design-examples.herokuapp.com/
 - Backlog and community discussion: https://github.com/dwp/design-examples/projects/1
 
-### Her Majesty's Revenue and Customs 
+### Her Majesty's Revenue and Customs
 - HMRC Design patterns: https://design-resources-for-hmrc.herokuapp.com/design-library/
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
 
@@ -35,7 +35,7 @@ A list of design systems and design resources that gov departments have created.
 - RPA Styleguide: https://rural-payments-styleguide.herokuapp.com/
 
 ### Department for Environment, Food and Rural Affairs
-- Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder 
+- Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
 
 ### NHS
 - NHS digital service manual: https://beta.nhs.uk/service-manual/
@@ -49,9 +49,12 @@ A list of design systems and design resources that gov departments have created.
 ### Local Gov
 - Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 
+### Arm's Length Bodies
+- National Institute for Health and Care Excellence (NICE): https://nhsevidence.github.io/nice-design-system/
+
 ## Australia
 
-### Digital Transformation Agency 
+### Digital Transformation Agency
 - DTA Design System: https://designsystem.gov.au/
 
 ## United States
