@@ -45,7 +45,7 @@ A list of design systems and design resources that gov departments have created.
 - ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
 
 ### Scotland
-- MyGov.Scot resources:https://scottishgovernment.github.io/design-standards/
+- MyGov.Scot resources: https://resources.mygov.scot/alpha/
 
 ### Local Gov
 - Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
