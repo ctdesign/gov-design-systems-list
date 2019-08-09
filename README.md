@@ -18,7 +18,7 @@ A list of design systems and design resources that gov departments have created.
 - Backlog and community discussion: https://github.com/dwp/design-examples/projects/1
 
 ### Her Majesty's Revenue and Customs
-- HMRC Design patterns: https://design-resources-for-hmrc.herokuapp.com/design-library/
+- HMRC Design patterns: https://design.tax.service.gov.uk/hmrc-design-patterns/
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
 
 ### Ministry of Justice
