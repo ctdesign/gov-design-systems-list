@@ -50,6 +50,9 @@ A list of design systems and design resources that gov departments have created.
 ### Local Gov
 - Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 
+### Armed Forces
+- Royal Navy: https://docs.royalnavy.io
+
 ### Arm's Length Bodies
 - National Institute for Health and Care Excellence (NICE): https://nhsevidence.github.io/nice-design-system/
 
