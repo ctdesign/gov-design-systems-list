@@ -60,6 +60,7 @@ A list of design systems and design resources that gov departments have created.
 
 ### Local Gov
 - Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
+- Essex: https://essex-design-system.herokuapp.com/
 
 ### Armed Forces
 - Royal Navy: https://docs.royalnavy.io
