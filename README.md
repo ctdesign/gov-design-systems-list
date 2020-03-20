@@ -9,7 +9,7 @@ A list of design systems and design resources that gov departments have created.
 - GOV.UK Publishing guide: https://docs.publishing.service.gov.uk/manual/components.html#component-guides
 
 ### Home Office
-- Home Office Design System: https://home-office-digital-patterns.herokuapp.com/
+- Home Office Design System: https://design.homeoffice.gov.uk/
 - Backlog and community discussion: https://github.com/UKHomeOffice/design-system/projects/1
 - Home Office Form builder: https://ukhomeofficeforms.github.io/hof-guide/
 
@@ -29,14 +29,25 @@ A list of design systems and design resources that gov departments have created.
 - CJS Crime programme design patterns: https://cjscpp-design-patterns.herokuapp.com/
 - HMCTS Design System: https://hmcts-design-system.herokuapp.com/
 
+### DVSA
+- DVSA Front-end: https://dvsa-front-end.herokuapp.com/
+
+### DVLA
+- DVLA Design: https://dvladesign.herokuapp.com/
+- Internal front-end toolkit: https://dvla-internal-frontend-toolkit.herokuapp.com/
+
 ### Land Registry
 - Design elements: http://land-registry-elements.herokuapp.com/
+- Design system: https://hmlr-design-system.herokuapp.com/
 
 ### Rural Payments
 - RPA Styleguide: https://rural-payments-styleguide.herokuapp.com/
 
 ### Department for Environment, Food and Rural Affairs
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
+
+### Companies House
+- Design System: https://github.com/companieshouse/ch-design-system
 
 ### NHS
 - NHS digital service manual: https://beta.nhs.uk/service-manual/
@@ -68,3 +79,9 @@ A list of design systems and design resources that gov departments have created.
 
 ## New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
+
+# Gov Design community created resources
+- Gov Flow, a design kit for user flows: https://github.com/charlesrt/gov-flow
+- DEFRA Form builder: https://digital-form-builder.herokuapp.com/split
+- Sketch Wireframing kit: https://github.com/abbott567/sketch_wireframing_kit
+- Balsamiq wireframing kit: https://github.com/enoranidi/govuk-design-system-balsamiq
