@@ -50,7 +50,8 @@ A list of design systems and design resources that gov departments have created.
 - Design System: https://github.com/companieshouse/ch-design-system
 
 ### NHS
-- NHS digital service manual: https://beta.nhs.uk/service-manual/
+- NHS design system: https://service-manual.nhs.uk/design-system
+- NHS style guide: https://service-manual.nhs.uk/content
 
 ### Office for National Statistics
 - ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
