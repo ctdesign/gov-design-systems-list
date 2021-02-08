@@ -14,6 +14,7 @@ A list of design systems and design resources that gov departments have created.
 - Home Office Form builder: https://ukhomeofficeforms.github.io/hof-guide/
 
 ### Department of Work and Pensions
+- DWP Design System: https://design-system-dwp.herokuapp.com
 - DWP Design Examples: https://dwp-design-examples.herokuapp.com/
 - Backlog and community discussion: https://github.com/dwp/design-examples/projects/1
 
