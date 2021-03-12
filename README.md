@@ -68,6 +68,7 @@ A list of design systems and design resources that gov departments have created.
 ### Local Gov
 - Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 - Essex: https://essex-design-system.herokuapp.com/
+- Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
 ### Armed Forces
 - Royal Navy: https://docs.royalnavy.io
