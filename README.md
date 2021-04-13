@@ -90,6 +90,8 @@ A list of design systems and design resources that gov departments have created.
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
 # Gov Design community created resources
+
+- GOV.UK Design System Community Resources: https://design-system.service.gov.uk/community/resources-and-tools/
 - Gov Flow, a design kit for user flows: https://github.com/charlesrt/gov-flow
 - DEFRA Form builder: https://digital-form-builder.herokuapp.com/split
 - Sketch Wireframing kit: https://github.com/abbott567/sketch_wireframing_kit
