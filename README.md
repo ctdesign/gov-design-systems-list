@@ -31,7 +31,7 @@ A list of design systems and design resources that gov departments have created.
 - HMCTS Design System: https://hmcts-design-system.herokuapp.com/
 
 ### Ministry of Housing, Communities and Local Government
-- Digital Land Design: https://digital-land-design.herokuapp.com
+- Digital Land Design: https://digital-land.github.io/design-system/
 
 ### DVSA
 - DVSA Front-end: https://dvsa-front-end.herokuapp.com/
