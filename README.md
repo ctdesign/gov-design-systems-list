@@ -1,7 +1,10 @@
 # Gov Design Systems
 A list of design systems and design resources that gov departments have created. I'm more focussed on design guidance, rather than front end developer code resources but there is some cross over (there's a great list by @nickcolley you should check out for that https://github.com/nickcolley/awesome-govuk-frontend)
 
-## UK
+# UK
+
+## National Government
+
 ### Government Digital Service
 - GOV.UK Design System: https://design-system.service.gov.uk
 - Backlog and community discussion: https://github.com/alphagov/govuk-design-system-backlog/projects/1
@@ -40,12 +43,13 @@ A list of design systems and design resources that gov departments have created.
 - DVLA Design: https://dvladesign.herokuapp.com/
 - Internal front-end toolkit: https://dvla-internal-frontend-toolkit.herokuapp.com/
 
+### Education and Skills Funding Agency (ESFA)
+- http://das-design-system.herokuapp.com/
+- http://esfacontent.herokuapp.com/
+
 ### Land Registry
 - Design elements: http://land-registry-elements.herokuapp.com/
 - Design system: https://hmlr-design-system.herokuapp.com/
-
-### Rural Payments
-- RPA Styleguide: https://rural-payments-styleguide.herokuapp.com/
 
 ### Department for Environment, Food and Rural Affairs
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
@@ -53,48 +57,43 @@ A list of design systems and design resources that gov departments have created.
 ### Companies House
 - Design System: https://github.com/companieshouse/ch-design-system
 
-### NHS
-- NHS design system: https://service-manual.nhs.uk/design-system
-- NHS style guide: https://service-manual.nhs.uk/content
-
 ### Office for National Statistics
 - ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
 - Electronic questionnaire product design system: https://ons-design-system.netlify.app/
 - ONS Prototyping kit for internal systems: https://github.com/ONSdigital/prototype-kit
 
-### Scotland
-- MyGov.Scot resources: https://resources.mygov.scot/alpha/
-
-### Local Gov
-- Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
-- Essex: https://essex-design-system.herokuapp.com/
-- Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
-
-### Armed Forces
+## Armed Forces
 - Royal Navy: https://docs.royalnavy.io
+
+## Health & Social Care
+
+### NHS
+- NHS design system: https://service-manual.nhs.uk/design-system
+- NHS style guide: https://service-manual.nhs.uk/content
 
 ### National Institute for Health and Care Excellence (NICE)
 - NICE design system: https://design-system.nice.org.uk/
 - NICE backlog and discussion: https://github.com/nice-digital/nice-design-system/discussions
 - Storybook to play around with component options: https://storybook-nds.netlify.app/?path=/story/components-action-banner--default
 
-## Australia
+## Scotland
+- MyGov.Scot resources: https://resources.mygov.scot/alpha/
+- 
+## Local Gov
+- Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
+- Essex: https://essex-design-system.herokuapp.com/
+- Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
-### Digital Transformation Agency
+# Australia
+
+## Digital Transformation Agency
 - DTA Design System: https://designsystem.gov.au/
 
-## United States
+# United States
 
-### Federal Government
+## Federal Government
 - US Web Design System: https://designsystem.digital.gov/
 
-## New Zealand
+# New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
-# Gov Design community created resources
-
-- GOV.UK Design System Community Resources: https://design-system.service.gov.uk/community/resources-and-tools/
-- Gov Flow, a design kit for user flows: https://github.com/charlesrt/gov-flow
-- DEFRA Form builder: https://digital-form-builder.herokuapp.com/split
-- Sketch Wireframing kit: https://github.com/abbott567/sketch_wireframing_kit
-- Balsamiq wireframing kit: https://github.com/enoranidi/govuk-design-system-balsamiq
