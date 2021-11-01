@@ -73,8 +73,10 @@ A list of design systems and design resources that gov departments have created.
 ### Armed Forces
 - Royal Navy: https://docs.royalnavy.io
 
-### Arm's Length Bodies
-- National Institute for Health and Care Excellence (NICE): https://nhsevidence.github.io/nice-design-system/
+### National Institute for Health and Care Excellence (NICE)
+- NICE design system: https://design-system.nice.org.uk/
+- NICE backlog and discussion: https://github.com/nice-digital/nice-design-system/discussions
+- Storybook to play around with component options: https://storybook-nds.netlify.app/?path=/story/components-action-banner--default
 
 ## Australia
 
