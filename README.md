@@ -17,9 +17,8 @@ A list of design systems and design resources that gov departments have created.
 - Home Office Form builder: https://ukhomeofficeforms.github.io/hof-guide/
 
 ### Department of Work and Pensions
-- DWP Design System: https://design-system-dwp.herokuapp.com
-- DWP Design Examples: https://dwp-design-examples.herokuapp.com/
-- Backlog and community discussion: https://github.com/dwp/design-examples/projects/1
+- DWP Design System: https://design-system.dwp.gov.uk/index
+- Backlog and community discussion: https://github.com/dwp/design-system-community-backlog/projects/1
 
 ### Her Majesty's Revenue and Customs
 - HMRC Design patterns: https://design.tax.service.gov.uk/hmrc-design-patterns/
@@ -78,22 +77,25 @@ A list of design systems and design resources that gov departments have created.
 
 ## Scotland
 - MyGov.Scot resources: https://resources.mygov.scot/alpha/
-- 
+
 ## Local Gov
-- Brighton & Hove County Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
+- Brighton & Hove City Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 - Essex: https://essex-design-system.herokuapp.com/
 - Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
-# Australia
+# Argentina
+- Poncho (in Spanish): https://argob.github.io/poncho/
 
-## Digital Transformation Agency
-- DTA Design System: https://designsystem.gov.au/
+# Australia
+- Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
+- GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
+
+# New Zealand
+- Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
 # United States
 
 ## Federal Government
 - US Web Design System: https://designsystem.digital.gov/
 
-# New Zealand
-- Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
