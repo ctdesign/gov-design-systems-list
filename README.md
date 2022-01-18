@@ -76,7 +76,7 @@ A list of design systems and design resources that gov departments have created.
 - Storybook to play around with component options: https://storybook-nds.netlify.app/?path=/story/components-action-banner--default
 
 ## Scotland
-- MyGov.Scot resources: https://resources.mygov.scot/alpha/
+- Scottish Government's Digital Scotland Design System: https://designsystem.gov.scot/
 
 ## Local Gov
 - Brighton & Hove City Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
