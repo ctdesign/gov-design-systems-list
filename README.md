@@ -38,10 +38,6 @@ A list of design systems and design resources that gov departments have created.
 ### DVSA
 - DVSA Front-end: https://dvsa-front-end.herokuapp.com/
 
-### DVLA
-- DVLA Design: https://dvladesign.herokuapp.com/
-- Internal front-end toolkit: https://dvla-internal-frontend-toolkit.herokuapp.com/
-
 ### Education and Skills Funding Agency (ESFA)
 - http://das-design-system.herokuapp.com/
 - http://esfacontent.herokuapp.com/
