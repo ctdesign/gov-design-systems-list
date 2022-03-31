@@ -77,6 +77,7 @@ A list of design systems and design resources that gov departments have created.
 ## Local Gov
 - Brighton & Hove City Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 - Essex: https://essex-design-system.herokuapp.com/
+- Hackney: https://design-system.hackney.gov.uk/
 - Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
 # Argentina
@@ -85,6 +86,9 @@ A list of design systems and design resources that gov departments have created.
 # Australia
 - Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
+
+# Germany
+- State of Schleswig-Holstein: https://www.design-system.sh/
 
 # New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
