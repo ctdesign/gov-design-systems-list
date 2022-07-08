@@ -86,6 +86,12 @@ A list of design systems and design resources that gov departments have created.
 - Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
 
+# Brazil
+- Brazilian Government Design System https://www.gov.br/ds/home
+- GitLab repository https://gitlab.com/govbr-ds/dev/govbr-ds-dev-core
+- Wiki https://govbr-ds.gitlab.io/govbr-ds-wiki/
+
+
 # New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
