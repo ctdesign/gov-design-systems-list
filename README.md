@@ -20,6 +20,9 @@ A list of design systems and design resources that gov departments have created.
 - DWP Design System: https://design-system.dwp.gov.uk/index
 - Backlog and community discussion: https://github.com/dwp/design-system-community-backlog/projects/1
 
+### Department for Education
+- Design Manual: https://design.education.gov.uk
+
 ### Her Majesty's Revenue and Customs
 - HMRC Design patterns: https://design.tax.service.gov.uk/hmrc-design-patterns/
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
