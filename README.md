@@ -1,5 +1,5 @@
 # Gov Design Systems
-A list of design systems and design resources that gov departments have created. I'm more focussed on design guidance, rather than front end developer code resources but there is some cross over (there's a great list by @nickcolley you should check out for that https://github.com/nickcolley/awesome-govuk-frontend)
+A list of design systems and design resources that gov departments have created.
 
 # UK
 
@@ -79,22 +79,27 @@ A list of design systems and design resources that gov departments have created.
 - Hackney: https://design-system.hackney.gov.uk/
 - Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
-# Argentina
+# International
+
+## Argentina
 - Poncho (in Spanish): https://argob.github.io/poncho/
 
-# Australia
+## Australia
 - Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
 
-# Germany
+## Brazil
+- Brazilian Government Design System https://www.gov.br/ds/home
+- GitLab repository https://gitlab.com/govbr-ds/dev/govbr-ds-dev-core
+- Wiki https://govbr-ds.gitlab.io/govbr-ds-wiki/
+
+## Germany
 - State of Schleswig-Holstein: https://www.design-system.sh/
 
-# New Zealand
+## New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
-# United States
-
-## Federal Government
+## United States
 - US Web Design System: https://designsystem.digital.gov/
 
 
