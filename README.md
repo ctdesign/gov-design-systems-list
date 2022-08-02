@@ -48,9 +48,6 @@ A list of design systems and design resources that gov departments have created.
 ### Department for Environment, Food and Rural Affairs
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
 
-### Companies House
-- Design System: https://github.com/companieshouse/ch-design-system
-
 ### Office for National Statistics
 - ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
 - Electronic questionnaire product design system: https://ons-design-system.netlify.app/
