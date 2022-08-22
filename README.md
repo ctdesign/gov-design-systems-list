@@ -86,9 +86,19 @@ A list of design systems and design resources that gov departments have created.
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
 
 ## Brazil
-- Brazilian Government Design System https://www.gov.br/ds/home
-- GitLab repository https://gitlab.com/govbr-ds/dev/govbr-ds-dev-core
-- Wiki https://govbr-ds.gitlab.io/govbr-ds-wiki/
+- Brazilian Government Design System: https://www.gov.br/ds/home
+- GitLab repository: https://gitlab.com/govbr-ds/dev/govbr-ds-dev-core
+- Wiki: https://govbr-ds.gitlab.io/govbr-ds-wiki/
+
+## Canada
+- Canada.ca Design System: https://www.canada.ca/en/government/about/design-system.html
+- GC Design System: https://design.alpha.canada.ca/en/
+
+### Canadian provinces
+- Ontario Design System: https://designsystem.ontario.ca/
+- British Columbia Government Design System for Digital Services: https://developer.gov.bc.ca/Design-System/About-the-Design-System
+- Quebec design system (Système de design gouvernemental): https://design.quebec.ca/apercu/systeme
+- Yukon Design System: https://guide.yukon.ca/en/yukon-design-system
 
 ## Germany
 - State of Schleswig-Holstein: https://www.design-system.sh/
