@@ -22,6 +22,7 @@ A list of design systems and design resources that gov departments have created.
 
 ### Department for Education
 - Design Manual: https://design.education.gov.uk
+- Apply the Service Standard in DfE - https://apply-the-service-standard.education.gov.uk/
 
 ### Her Majesty's Revenue and Customs
 - HMRC Design patterns: https://design.tax.service.gov.uk/hmrc-design-patterns/
