@@ -42,9 +42,9 @@ A list of design systems and design resources that gov departments have created.
 ### DVSA
 - DVSA Front-end: https://dvsa-front-end.herokuapp.com/
 
-### Land Registry
-- Design elements: http://land-registry-elements.herokuapp.com/
-- Design system: https://hmlr-design-system.herokuapp.com/
+### HM Land Registry
+- Design System: https://hmlr-design-system.herokuapp.com/
+- Frontend components: https://hmlr-frontend.herokuapp.com/
 
 ### Department for Environment, Food and Rural Affairs
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
