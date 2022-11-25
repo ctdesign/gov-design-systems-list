@@ -8,7 +8,6 @@ A list of design systems and design resources that gov departments have created.
 ### Government Digital Service
 - GOV.UK Design System: https://design-system.service.gov.uk
 - Backlog and community discussion: https://github.com/alphagov/govuk-design-system-backlog/projects/1
-- Digital Marketplace frontend toolkit: https://alphagov.github.io/digitalmarketplace-frontend-toolkit/
 - GOV.UK Publishing guide: https://docs.publishing.service.gov.uk/manual/components.html#component-guides
 
 ### Home Office
