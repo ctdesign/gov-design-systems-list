@@ -15,7 +15,7 @@ A list of design systems and design resources that gov departments have created.
 - Backlog and community discussion: https://github.com/UKHomeOffice/design-system/projects/1
 - Home Office Form builder: https://ukhomeofficeforms.github.io/hof-guide/
 
-### Department of Work and Pensions
+### Department for Work and Pensions
 - DWP Design System: https://design-system.dwp.gov.uk/index
 - Backlog and community discussion: https://github.com/dwp/design-system-community-backlog/projects/1
 
@@ -108,5 +108,10 @@ A list of design systems and design resources that gov departments have created.
 
 ## United States
 - US Web Design System: https://designsystem.digital.gov/
+
+### State and local government
+- California design system: https://designsystem.webstandards.ca.gov/
+- Hennepin County, Minnesota, pattern and component library: https://www.hennepin.us/pattern-components
+- Commonwealth of Massachusetts design system: https://mayflower.digital.mass.gov/home/
 
 
