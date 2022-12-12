@@ -23,6 +23,10 @@ A list of design systems and design resources that gov departments have created.
 - Design Manual: https://design.education.gov.uk
 - Apply the Service Standard in DfE - https://apply-the-service-standard.education.gov.uk/
 
+### MI6, MI5, and GCHQ
+- Intelligence Community Design System: https://design.sis.gov.uk
+- Backlog: https://github.com/orgs/mi6/projects/2/views/4
+
 ### Her Majesty's Revenue and Customs
 - HMRC Design patterns: https://design.tax.service.gov.uk/hmrc-design-patterns/
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
