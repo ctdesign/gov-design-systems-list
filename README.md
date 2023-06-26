@@ -87,6 +87,7 @@ A list of design systems and design resources that gov departments have created.
 ## Australia
 - Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
+- Agriculture Design System https://design-system.agriculture.gov.au/
 
 ## Brazil
 - Brazilian Government Design System: https://www.gov.br/ds/home
@@ -103,8 +104,14 @@ A list of design systems and design resources that gov departments have created.
 - Quebec design system (Système de design gouvernemental): https://design.quebec.ca/apercu/systeme
 - Yukon Design System: https://guide.yukon.ca/en/yukon-design-system
 
+## France
+- State Design System: https://www.systeme-de-design.gouv.fr/
+
 ## Germany
 - State of Schleswig-Holstein: https://www.design-system.sh/
+
+## Greece
+- Central government: https://guide.services.gov.gr/
 
 ## New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
