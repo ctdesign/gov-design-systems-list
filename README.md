@@ -74,6 +74,7 @@ A list of design systems and design resources that gov departments have created.
 - Scottish Government's Digital Scotland Design System: https://designsystem.gov.scot/
 
 ## Local Gov
+- BigTown Council - A generic UX and Content Strategy for others to build on as desired: https://www.bigtown.star-one.org.uk/content-and-user-experience-strategy-local-government
 - Brighton & Hove City Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
 - Essex: https://essex-design-system.herokuapp.com/
 - Hackney: https://design-system.hackney.gov.uk/
