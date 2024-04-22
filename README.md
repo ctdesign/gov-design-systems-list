@@ -48,7 +48,7 @@ A list of design systems and design resources that gov departments have created.
 - Form builder (lets you create a form transaction visually): https://github.com/DEFRA/digital-form-builder
 
 ### Office for National Statistics
-- ONS website pattern library: https://onsdigital.github.io/ons-pattern-library-starter/
+- ONS website pattern library: https://service-manual.ons.gov.uk/design-system/
 - Electronic questionnaire product design system: https://ons-design-system.netlify.app/
 - ONS Prototyping kit for internal systems: https://github.com/ONSdigital/prototype-kit
 
