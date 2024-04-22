@@ -93,7 +93,7 @@ A list of design systems and design resources that gov departments have created.
 
 ## Canada
 - Canada.ca Design System: https://www.canada.ca/en/government/about/design-system.html
-- GC Design System: https://design.alpha.canada.ca/en/
+- GC Design System: https://design-system.alpha.canada.ca/
 
 ### Canadian provinces
 - Ontario Design System: https://designsystem.ontario.ca/
