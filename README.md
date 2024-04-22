@@ -32,11 +32,7 @@ A list of design systems and design resources that gov departments have created.
 - Backlog and community discussion: https://github.com/hmrc/design-patterns/projects/1
 
 ### Ministry of Justice
-- MOJ Pattern Library: https://design-patterns.service.justice.gov.uk/
-
-### HM Courts & Tribunals Service
-- CJS Crime programme design patterns: https://cjscpp-design-patterns.herokuapp.com/
-- HMCTS Design System: https://hmcts-design-system.herokuapp.com/
+- MoJ Design System: https://design-patterns.service.justice.gov.uk/
 
 ### Ministry of Housing, Communities and Local Government
 - Digital Land Design: https://digital-land.github.io/design-system/
