@@ -37,9 +37,6 @@ A list of design systems and design resources that gov departments have created.
 ### Ministry of Housing, Communities and Local Government
 - Digital Land Design: https://digital-land.github.io/design-system/
 
-### DVSA
-- DVSA Front-end: https://dvsa-front-end.herokuapp.com/
-
 ### HM Land Registry
 - Design System: https://hmlr-design-system.herokuapp.com/
 - Frontend components: https://hmlr-frontend.herokuapp.com/
@@ -57,7 +54,8 @@ A list of design systems and design resources that gov departments have created.
 - The National Archives Design System: https://nationalarchives.github.io/design-system/
 
 ## Armed Forces
-- Royal Navy: https://docs.royalnavy.io
+- Royal Navy: https://design-system.navy.digital.mod.uk/
+- Ministry of Defence: https://design-system.service.mod.gov.uk/
 
 ## Health & Social Care
 
@@ -68,7 +66,6 @@ A list of design systems and design resources that gov departments have created.
 ### National Institute for Health and Care Excellence (NICE)
 - NICE design system: https://design-system.nice.org.uk/
 - NICE backlog and discussion: https://github.com/nice-digital/nice-design-system/discussions
-- Storybook to play around with component options: https://storybook-nds.netlify.app/?path=/story/components-action-banner--default
 
 ## Scotland
 - Scottish Government's Digital Scotland Design System: https://designsystem.gov.scot/
@@ -76,7 +73,6 @@ A list of design systems and design resources that gov departments have created.
 ## Local Gov
 - BigTown Council - A generic UX and Content Strategy for others to build on as desired: https://www.bigtown.star-one.org.uk/content-and-user-experience-strategy-local-government
 - Brighton & Hove City Council: http://csmdemo.uk/BHCC-website-design-patterns/index.php?p=welcome
-- Essex: https://essex-design-system.herokuapp.com/
 - Hackney: https://design-system.hackney.gov.uk/
 - Transport for West Midlands (West Midlands Network): https://designsystem.wmnetwork.co.uk
 
@@ -86,7 +82,6 @@ A list of design systems and design resources that gov departments have created.
 - Poncho (in Spanish): https://argob.github.io/poncho/
 
 ## Australia
-- Australian Government Design System: https://designsystem.gov.au/ (decommissioned but still available as of November 2021)
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
 - Agriculture Design System https://design-system.agriculture.gov.au/
 
