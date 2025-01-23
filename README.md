@@ -78,6 +78,9 @@ A list of design systems and design resources that gov departments have created.
 
 # International
 
+## South Korea
+- Korea Design System(KRDS): https://www.krds.go.kr/
+
 ## Argentina
 - Poncho (in Spanish): https://argob.github.io/poncho/
 
