@@ -54,7 +54,7 @@ A list of design systems and design resources that gov departments have created.
 - The National Archives Design System: https://design-system.nationalarchives.gov.uk/
 
 ## Armed Forces
-- Royal Navy: https://design-system.navy.digital.mod.uk/
+- Royal Navy: https://storybook.design-system.navy.digital.mod.uk/
 - Ministry of Defence: https://design-system.service.mod.gov.uk/
 
 ## Health & Social Care
