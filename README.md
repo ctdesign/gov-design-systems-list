@@ -87,6 +87,7 @@ A list of design systems and design resources that gov departments have created.
 ## Australia
 - GitHub repository (archived, read-only): https://github.com/govau/design-system-components/
 - Agriculture Design System https://design-system.agriculture.gov.au/
+- New South Wales: https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/design-system
 
 ## Brazil
 - Brazilian Government Design System: https://www.gov.br/ds/home
