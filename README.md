@@ -105,7 +105,7 @@ A list of design systems and design resources that gov departments have created.
 - State Design System: https://www.systeme-de-design.gouv.fr/
 
 ## Germany
-- State of Schleswig-Holstein: https://www.design-system.sh/
+- Government Design System: https://www.design-system.gov.de/
 
 ## Greece
 - Central government: https://guide.services.gov.gr/
