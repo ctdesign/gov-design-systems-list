@@ -127,4 +127,5 @@ A list of design systems and design resources that gov departments have created.
 - Hennepin County, Minnesota, pattern and component library: https://www.hennepin.us/pattern-components
 - Commonwealth of Massachusetts design system: https://mayflower.digital.mass.gov/home/
 
-
+## Switzerland
+- Swiss Government Design System: https://github.com/swiss/designsystem
