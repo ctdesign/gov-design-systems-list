@@ -116,6 +116,10 @@ A list of design systems and design resources that gov departments have created.
 ## New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
+## Saudi Arabia
+- Digital Government Authority (DGA) design files: https://www.figma.com/@sdga
+- NDS-vanilla, open-source community implementation (كود المنصات), not affiliated with the DGA: https://ndsvanilla.dev/
+
 ## South Korea
 - Korea Design System(KRDS): https://www.krds.go.kr/
 
